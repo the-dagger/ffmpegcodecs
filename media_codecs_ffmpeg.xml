@@ -11,6 +11,8 @@
      limitations under the License.
 -->
 
+<!-- Copy the following file to frameworks/av/media/libstagefright/data/media_codecs_ffmpeg.xml -->
+
 <Included>
     <Decoders>
 
